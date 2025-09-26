@@ -1,4 +1,4 @@
-## til-2025-<n>
+## til-2025-1
 Short TIL (Today I Learned) notes.
 
 ## TIL 1
