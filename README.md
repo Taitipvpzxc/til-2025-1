@@ -8,3 +8,4 @@ Short TIL (Today I Learned) notes.
 ## TIL 2
 - Date: 2025-09-26
 - Note: Small README/typo fixes help produce counted commits/PRs.
+ Learned about GitHub contributions tracking.
